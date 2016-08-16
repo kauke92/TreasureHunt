@@ -1,0 +1,20 @@
+DB Project Assignment Part 3: Database Programming
+
+GROUP : R13A2
+
+Discussion
+
+One of the extensions we chose to include was Option 1, the ability to rate and review hunts. 
+We added a separate page for reviews that allows a user to select which hunt they wish to review from a drop down bar.  
+It the displays previous ratings and comments about that hunt, as well as an average rating.  
+There is a button that allows you to add your own comment and rating to the hunt as well.
+
+
+Some of the issues we encountered and suggestions for improvements we received during the tutorial at the half way point were as follows.  
+We needed to add appropriate error messages for errors when the player did not have a team, hunt, or incorrect information was passed to the website.  
+We also needed to add transactions properly within the code.  
+There was also some improvement to be made on the security side of the code, adding stored procedures and such.  
+
+The other extension we implemented was the hunt vistualization.  
+On another page, we embedded a google maps viewer that displays each clue’s location as a marker, 
+allowing players to see located clues and checkpoints at any time once they have logged in.
